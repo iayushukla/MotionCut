@@ -1,0 +1,29 @@
+  
+[
+    {
+      "question": "What is the capital of France?",
+      "options": ["New Delhi", "London", "Paris", "Madrid"],
+      "answer": 2
+    },
+    {
+      "question": "What is the largest planet in our solar system?",
+      "options": ["Earth", "Jupiter", "Neptune", "Mars"],
+      "answer": 1
+    },
+    {
+      "question": "Who wrote 'Romeo and Juliet'?",
+      "options": ["Alexander Pope", "Jane Austen", "Charles Dickens", "William Shakespear"],
+      "answer": 3
+    },
+    {
+      "question": "What sports car company manufactures the 911?",
+      "options": ["BMW", "Ferrari", "Porsche", "Maruti Suzuki"],
+      "answer": 2
+    },
+    {
+      "question":"What is the highest-rated film on IMDb as of January 1st, 2022? ",
+      "options":["Shawshank Redemption","The Dark Knight", "The Godfather", "Interstellar"],
+      "answer": 0
+    }
+  ]
+  
